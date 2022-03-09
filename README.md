@@ -7,6 +7,8 @@
 # Fellipe Cechinel
 <sub>*Software Engineer* at Proposify</sub>
 
+Passionate by development and working in this area for almost 10 years, I decided to explore Data Science which has always been a topic that fascinated me.
+
 **Background in:** Java, PHP, Javascript, Node, ReactJS, DDD, SOLID, Clean Architecture, MySql, Postgres.
 
 **Links:**
