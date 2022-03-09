@@ -14,7 +14,7 @@
 
 
 ## Projects:
-* **Airbnb Toronto Data Analysis:** https://bit.ly/mylink
+* **Airbnb Toronto Data Analysis:** https://bit.ly/fellipe-airbnb-toronto
 
 ---
 
